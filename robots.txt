@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://ajooly13.github.io/dark-blue-shein/sitemap.xml
